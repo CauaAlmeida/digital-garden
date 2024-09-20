@@ -65,27 +65,21 @@ Eu tenho uma vira-lata chamada Saya.
 ### Sistemas
 
 ### nagi@Nagi
-| **Componente**  | **Detalhes**                                           |
-| --------------- | ------------------------------------------------------ |
-| **OS**          | NixOS                                                  |
-| **Placa-Mãe**   | Gigabyte Technology Co., Ltd. B450M GAMING             |
-| **Terminal**    | Alacrity                                               |
-| **CPU**         | AMD Ryzen 5 4600G with Radeon Graphics (12) @ 3.700GHz |
-| **GPU**         | NVIDIA GeForce RTX 2060                                |
-| **RAM**         | 32GB                                                   |
-| **Memória**     | 500gb SSD + 2.5Tb HD                                   |
-| **Editor**      | Neovim, VSCode                                         |
-| **E-Mail**      | Mailcow Dockerized, protonmail                         |
-| **Vídeo**       | mpv                                                    |
-| **Música**      | Spotify                                                |
-| **Edição**      | Photopea                                               |
-| **P2P**         | Soulseek                                               |
-| **Comunicação** | Vesktop                                                |
-| **Torrent**     | qBittorrent                                            |
-| **Trackers**    | avistaZ, cinemaZ, jpopsuki                             |
-| **Aprendizado** | Obsidian, Anki                                         |
-| **Finanças**    | GnuCash                                                |
+
+**OS:** NixOS 
+**Host:** Gigabyte Technology Co., Ltd. B450M GAMING 
+**Terminal:** Alacrity 
+**CPU:** AMD Ryzen 5 4600G with Radeon Graphics (12) @ 3.700
+**GPU:** NVIDIA GeForce RTX 2060
+**RAM:** 16GB
+**Editor de Texto:** neovim, VSCode
+**E-Mail:** protonmail
+**Video:** mpv
+**Edição:** gimp, krita, photopea
+**P2P:** soulseek
+**Torrent:** qBittorrent
+**Aprender:** VSCode, Obsidian, Anki
 
 ---
 
-Todo o conteúdo deste site é licenciado por: [VPL](https://viralpubliclicense.org)[Copyleft (ɔ) All Rights Reversed](https://viralpubliclicense.org)
+Todo o conteúdo deste site é licenciado por: [VPL - Copyleft (ɔ) All Rights Reversed](https://viralpubliclicense.org)
