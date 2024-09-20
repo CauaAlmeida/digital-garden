@@ -16,8 +16,6 @@ Esta seção deve ocupar um meio-termo entre páginas de wiki e artigos de mais 
 ##### Artigos
 Artigos completos, discussões abrangentes de vários tópicos relacionados que se concentram em um ponto central. Citações e gramática polidas.
 
----
-
 Além desse funil de três etapas, há duas outras seções:
 ##### Scrapbook
 
@@ -79,7 +77,5 @@ Eu tenho uma vira-lata chamada Saya.
 **P2P:** soulseek
 **Torrent:** qBittorrent
 **Aprender:** VSCode, Obsidian, Anki
-
----
 
 Todo o conteúdo deste site é licenciado por: [VPL - Copyleft (ɔ) All Rights Reversed](https://viralpubliclicense.org)
