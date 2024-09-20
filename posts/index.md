@@ -23,7 +23,7 @@ Além desse funil de três etapas, há duas outras seções:
 
 #### Scrapbook
 
-coisas interessantes que encontro e que não devem se perder com o tempo pois podem servir para o futuro.
+Coisas interessantes que encontro e que não devem se perder com o tempo pois podem servir para o futuro.
 
 #### Notas
 
