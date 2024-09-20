@@ -1,30 +1,39 @@
-## Bem-vindo (´ ∀ ´)ノ～
-### Sobre este website
+# Bem-vindo (´ ∀ ´)ノ～
+## Sobre este website
 
 Think tank dissidente, base de conhecimento prático e repositório de informações com foco em otimização e simplicidade, fundamentado em heurística e à prova de futuro.
 
-#### Estrutura
+### Estrutura
 
 >_Eu não falo. Eu opero uma máquina chamada linguagem. Ela trepida e range, mas é minha. — Frank Herbert, ‘O Messias de Duna’_
 
-##### Wiki
+#### Wiki
+
 Os posts categorizados como wiki discutem a verdade fundamental de coisas específicas. Por exemplo, caso fosse falar de bioquímica, cada hormônio esteroide teria sua própria página, mas os metabólitos auxiliares não. A serotonina teria uma página, mas os receptores e sub-receptores individuais não, optando por incluí-los todos em uma única página. A tireoide teria sua própria página na wiki, e em vez de cada hormônio da tireoide (T3, T4, rT3) ter sua própria página, optaria por incluí-los em uma só. Isso pode exigir mudanças à medida que o escopo deste exo-córtex evolui, mas esse é o nível atual de granularidade planejado.
 
-##### Tópicos
+#### Tópicos
+
 Esta seção deve ocupar um meio-termo entre páginas de wiki e artigos de mais de mil palavras. Páginas aqui são amplas demais em escopo para serem relegadas a uma única página na wiki, mas ainda não estão refinadas o suficiente para serem consideradas artigos.
 
-##### Artigos
+#### Artigos
+
 Artigos completos, discussões abrangentes de vários tópicos relacionados que se concentram em um ponto central. Citações e gramática polidas.
 
 Além desse funil de três etapas, há duas outras seções:
-##### Scrapbook
+
+#### Scrapbook
 
 coisas interessantes que encontro e que não devem se perder com o tempo pois podem servir para o futuro.
 
-##### Notas
+#### Notas
 
 Reflexões pessoais geralmente não relacionadas à busca objetiva de algum conhecimento específico.
-### Sobre mim
+
+#### Biblioteca
+
+Textos, documentos e arquivos importantes.
+
+## Sobre mim
 
 _Quem sou eu online e o que eu faço. Informações de contato; sites que utilizo; computadores e ferramentas de software; coisas que eu venho trabalhando; perfis psicológicos e etc._
 
@@ -39,7 +48,8 @@ Espero que você veja, através deste site, que sou um generalista e cultivo con
 Sou um nativo digital; acredito que o Dinheiro Digital é o futuro. Estou aprendendo programação e busco escrever códigos de computador que façam coisas úteis.
 
 **Em especial espero ser profissionalmente e tecnicamente relevante nas áreas de sistemas distribuídos, como:** blockchains, redes p2p, sistemas de alta disponibilidade e tecnologia construída sobre estes primitivos.
-### Pessoal
+
+## Pessoal
 
 Eu amo a minha esposa.
 
@@ -50,7 +60,7 @@ Outras coisas que eu amo:
 - Ler;
 - Escrever;
 - Beber com meus amigos;
-- Cinema;
+- Cinema.
 
 Descrevendo minha personalidade calmamente: Sou introvertido, mas não antissocial. Tenho um compromisso profundo com meu trabalho, projetos, família e amigos, mesmo tendo perdido muitos no decorrer da minha vida. Possivelmente autista. Tenho baixa tolerância a perversões, feiura, amargura e filistinismo.
 
@@ -60,22 +70,32 @@ Meu sol é em Peixes e meu MBTI é INTJ.
 
 Eu tenho uma vira-lata chamada Saya.
 
-### Sistemas
+## Sistemas
 
 ### nagi@Nagi
 
-**OS:** NixOS 
-**Host:** Gigabyte Technology Co., Ltd. B450M GAMING 
-**Terminal:** Alacrity 
-**CPU:** AMD Ryzen 5 4600G with Radeon Graphics (12) @ 3.700
-**GPU:** NVIDIA GeForce RTX 2060
-**RAM:** 16GB
-**Editor de Texto:** neovim, VSCode
-**E-Mail:** protonmail
-**Video:** mpv
-**Edição:** gimp, krita, photopea
-**P2P:** soulseek
-**Torrent:** qBittorrent
-**Aprender:** VSCode, Obsidian, Anki
+**OS:** NixOS
 
-Todo o conteúdo deste site é licenciado por: [VPL - Copyleft (ɔ) All Rights Reversed](https://viralpubliclicense.org)
+**Host:** Gigabyte Technology Co., Ltd. B450M GAMING
+
+**Terminal:** Alacrity
+
+**CPU:** AMD Ryzen 5 4600G with Radeon Graphics (12) @ 3.700
+
+**GPU:** NVIDIA GeForce RTX 2060
+
+**RAM:** 16GB
+
+**Editor de Texto:** neovim, VSCode
+
+**E-Mail:** protonmail
+
+**Video:** mpv
+
+**Edição:** gimp, krita, photopea
+
+**P2P:** soulseek
+
+**Torrent:** qBittorrent
+
+**Aprender:** VSCode, Obsidian, Anki
